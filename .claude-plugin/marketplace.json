@@ -2187,6 +2187,20 @@
       "homepage": "https://miro.com"
     },
     {
+      "name": "modern-web-guidance",
+      "description": "Keep your coding agent up to date with the latest web best practices",
+      "author": {
+        "name": "Google Chrome"
+      },
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/GoogleChrome/modern-web-guidance.git",
+        "sha": "2354c8c5856602e0730d7c65d91f1c29ffc479ee"
+      },
+      "homepage": "https://goo.gle/modern-web-guidance"
+    },
+    {
       "name": "mlflow",
       "description": "Skills for tracing, evaluating, and improving AI agents with MLflow. Supports the full agent improvement loop: instrument → trace → evaluate → iterate → validate.",
       "author": {
